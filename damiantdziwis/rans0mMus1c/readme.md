@@ -10,6 +10,6 @@ own rans0mMus1c or related projects)
 
 .WNCRY file reinterpreted as GSM audio @133700Hz and monob video @92x64p, upscaled to 640x480 .mp4 file with ffmpeg.
 
-reduced quality version of the video can as a release of this project.
+reduced quality version of the video can be found as a release of this project.
 
 see the visual music video on youtube: https://www.youtube.com/watch?v=gJlYr8uclV0 
