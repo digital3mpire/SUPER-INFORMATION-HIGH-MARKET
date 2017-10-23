@@ -9,7 +9,7 @@ of Pop- and Entertainment Music as audio- and videodata resulting in a new piece
 A linked crowdfunding campaign allows it, in case it raises enough money, 
 to free the original music piece from its blackmailer and to decrypt it back to the original.
 
-Help to raise money on kickstarter: 
+Help to raise money on gofundme: https://www.gofundme.com/rans0mmus1c 
 
 
 ![WannaCry BackgroundImage](https://raw.githubusercontent.com/digital3mpire/SUPER-INFORMATION-HIGH-MARKET/master/damiantdziwis/rans0mMus1c/%40WanaDecryptor%40.bmp)
