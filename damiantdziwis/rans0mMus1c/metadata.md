@@ -1,15 +1,15 @@
 # rans0mMus1c
 
-The coming up of ransomware and especially recently one of the most prominent, WannaCry, 
-let people question the value of their digital data by encrypting it and let them pay to get it back.
+## making visul music with ransomware. 
 
-In rans0mMus1c the encryption by this malicious software becomes a creative process by reinterpreting encrypted pieces 
-of Pop- and Entertainment Music as audio- and videodata resulting in a new piece of visual music.
+### process notes:
 
-A linked crowdfunding campaign allows it, in case it raises enough money, 
-to free the original music piece from its blackmailer and to decrypt it back to the original.
+Wavefile of "Money Man" by A$AP Mob ft. A$AP Rocky and A$AP Nast encrypted by WannaCry ransomware. 
+(encrypted data can be found '/_audio/A$AP-Mob-Ft.-A$AP-Rocky-A$AP-Nast-Money-Man.wav.WNCRY' - use this to create your 
+own rans0mMus1c or related projects) 
 
-Help to raise money on gofundme: https://www.gofundme.com/rans0mmus1c 
+.WNCRY file reinterpreted as GSM audio @133700Hz and monob video @92x64p, upscaled to 640x480 .mp4 file with ffmpeg.
 
+reduced quality version of the video can be found as a release of this project.
 
-![WannaCry BackgroundImage](https://raw.githubusercontent.com/digital3mpire/SUPER-INFORMATION-HIGH-MARKET/master/damiantdziwis/rans0mMus1c/%40WanaDecryptor%40.bmp)
+see the visual music video on youtube: https://www.youtube.com/watch?v=gJlYr8uclV0 
