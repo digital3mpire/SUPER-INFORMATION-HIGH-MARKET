@@ -22,14 +22,15 @@ super-information-high-market.com is a plattform for distributung und selecting 
 everybody may contribute to the plattfomr by committing content to the corresponding git repository on github. 
 an entity mus have the following structure:
 
-/entity_name/_audio
-/entity_name/_video
-/entity_name/_sound
-/entity_name/_text
-/entity_name/400x400_thumbnail.jpg
-/entity_name/index.php
-/entity_name/metadata.md
-/entity_name/readme.md
+/entity_name/_audio  
+/entity_name/_video  
+/entity_name/_pics  
+/entity_name/_sound  
+/entity_name/_text  
+/entity_name/400x400_thumbnail.jpg  
+/entity_name/index.php  
+/entity_name/metadata.md  
+/entity_name/readme.md  
 
 
 the directories can be empty. its not necessary to commit audio+video+image+text. empty directories will just not be integrated into the plattform.		
