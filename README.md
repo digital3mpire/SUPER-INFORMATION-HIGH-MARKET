@@ -20,17 +20,19 @@ In these new situations the mode of production and accumulation disappeared. The
 super-information-high-market.com is a plattform for distributung und selecting the entities of artists. it is a kind of ecommerce plattform where you can browse and select the entities and finaly check them out by spreading and sharing the selection via an individual hyperlink with other via social network or any media.
 
 everybody may contribute to the plattfomr by committing content to the corresponding git repository on github. 
-an entity mus have the following structure:
+an entity should have the following structure, but not all directories are mandatory.
 
-/entity_name/_audio  
-/entity_name/_video  
-/entity_name/_pics  
-/entity_name/_sound  
-/entity_name/_text  
-/entity_name/400x400_thumbnail.jpg  
-/entity_name/index.php  
-/entity_name/metadata.md  
-/entity_name/readme.md  
+#### if you only have pics you only have to include the /_pics directory if you only have sound then put it in sound and onlny inlude /_sound directory
+
+/artist_name/entity_name/_audio  
+/artist_name/entity_name/_video  
+/artist_name/entity_name/_pics  
+/artist_name/entity_name/_sound  
+/artist_name/entity_name/_text  
+/entity_name/entity_name/_meta 400x400_thumbnail.jpg (mandatory)   
+/entity_name/entity_name/_meta metadata.md (mandatory) 
+/entity_name/readme.md (mandatory) 
 
 
-the directories can be empty. its not necessary to commit audio+video+image+text. empty directories will just not be integrated into the plattform.		
+the directories can be empty. 
+its not necessary to commit audio+video+image+text. empty directories will just not be integrated into the plattform.		
