@@ -11,7 +11,7 @@ Download the resulting visual music video in releases or watch it on youtube: ht
 
 
 A linked crowdfunding campaign allows it, in case it raises enough money, to pay the demanded ransom in bitcoin in order
-to free the original music piece from its blackmailer and to decrypt the source audio-file back to its original state.
+to free the original music piece from its blackmailer by decrypting the source audio-file back to its original state and to prevent all other files from being deleted!
 Help to raise money on gofundme: https://www.gofundme.com/rans0mmus1c 
 
 
