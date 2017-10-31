@@ -4,7 +4,7 @@
 
 ### process notes:
 
-In first place a wavefile of "Money Man" by A$AP Mob ft. A$AP Rocky and A$AP Nast was encrypted by WannaCry ransomware on a infected Windows machine. 
+In first place a wavefile of "Money Man" by A$AP Mob ft. A$AP Rocky and A$AP Nast was encrypted by WannaCry ransomware on an infected Windows machine. 
 (encrypted data can be found '/_audio/A$AP-Mob-Ft.-A$AP-Rocky-A$AP-Nast-Money-Man.wav.WNCRY' - use this to create your 
 own rans0mMus1c or related projects) 
 
