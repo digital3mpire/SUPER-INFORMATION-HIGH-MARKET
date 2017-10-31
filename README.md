@@ -1,10 +1,23 @@
 # SUPER INFORMATION HIGH MARKET
 
+
 ## WFT?! What is this
 
 this repo is an open spurce pavillon for  [THE WRONG bienale 2017](http://www.thewrong.org)
 the repo ist open to anybody who wants to join the project and share their artwork as part of this online festival of netarts.
 
+
+## HOWTO COMMIT
+
+you may commit to the project in to ways. use the git-infrastructure to make a pull-request to modify this repo or send an email with your github account name to:
+digital3mpire at floriankuhlmann dot com
+i will ad you to the access list
+
+
+## STRUCTURE
+
+please be aware of the directory structiure fpr your commit. please use the directory [example_artistname](https://github.com/digital3mpire/SUPER-INFORMATION-HIGH-MARKET/tree/master/example_artistname) as a prototype. you will also find a readme.md file there with further instructions
+	
 
 ## NARRATIVE
 
@@ -17,15 +30,3 @@ In the upcoming age of the super information high market virtual, augmented real
 
 Materiliazition ended when the flux of the information super high market started streaming, the mindset of mankind changed and with this step in evolution the world transformed into pure information. 
 In these new situations the mode of production and accumulation disappeared. These processes where replaced by the concept of commiting and spreading. Market set, industrially fabricated serialized products lost there values and have been replaced by undefined lossfree reproducible entities which are created and designed by art driven people. The created entities are commited into the global git-based super structure, in the next step selected and surveyd via webinterfaces and then in a final step shared, spread and distributed into the social networks and hypermedia by the people to the people.
-
-
-## HOWTO COMMIT
-
-you may commit to the project in to ways. use the git-infrastructure to make a pull-request to modify this repo or send an email with your github account name to:
-digital3mpire at floriankuhlmann dot com
-i will ad you to the access list
-
-## STRUCTURE
-
-please be aware of the directory structiure fpr your commit. please use the directory [example_artistname](https://github.com/digital3mpire/SUPER-INFORMATION-HIGH-MARKET/tree/master/example_artistname) as a prototype. you will also find a readme.md file there with further instructions
-	
