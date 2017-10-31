@@ -21,12 +21,11 @@ In these new situations the mode of production and accumulation disappeared. The
 
 ## HOWTO COMMIT
 
-super-information-high-market.com is a plattform for distributung und selecting the entities of artists. 
 you may commit to the project in to ways. use the git-infrastructure to make a pull-request to modify this repo or send an email with your github account name to:
 digital3mpire at floriankuhlmann dot com
 i will ad you to the access list
 
-## structure
+## STRUCTURE
 
 please be aware of the directory structiure fpr your commit. please use the directory [example_artistname](https://github.com/digital3mpire/SUPER-INFORMATION-HIGH-MARKET/tree/master/example_artistname) as a prototype. you will also find a readme.md file there with further instructions
 	
