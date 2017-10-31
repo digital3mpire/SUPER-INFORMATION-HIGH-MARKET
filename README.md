@@ -1,6 +1,12 @@
 # SUPER INFORMATION HIGH MARKET
 
-### NARRATIVE
+## WFT?! What is this
+
+this repo is an open spurce pavillon for  [THE WRONG bienale 2017](http://www.thewrong.org)
+the repo ist open to anybody who wants to join the project and share their artwork as part of this online festival of netarts.
+
+
+## NARRATIVE
 
 The superinformation high market is the market in its maximum and final stage. It is an economy in total and constant flux that has merged with life into a new form of reality based on an intense information stream powered by the endless sources of energy drilled from deep within the earth’s core.
 In the superinfromation high market everything is connected, because everything is one.
@@ -13,26 +19,14 @@ Materiliazition ended when the flux of the information super high market started
 In these new situations the mode of production and accumulation disappeared. These processes where replaced by the concept of commiting and spreading. Market set, industrially fabricated serialized products lost there values and have been replaced by undefined lossfree reproducible entities which are created and designed by art driven people. The created entities are commited into the global git-based super structure, in the next step selected and surveyd via webinterfaces and then in a final step shared, spread and distributed into the social networks and hypermedia by the people to the people.
 
 
+## HOWTO COMMIT
 
+super-information-high-market.com is a plattform for distributung und selecting the entities of artists. 
+you may commit to the project in to ways. use the git-infrastructure to make a pull-request to modify this repo or send an email with your github account name to:
+digital3mpire at floriankuhlmann dot com
+i will ad you to the access list
 
-### TECHNICAL CONCEPT
+## structure
 
-super-information-high-market.com is a plattform for distributung und selecting the entities of artists. it is a kind of ecommerce plattform where you can browse and select the entities and finaly check them out by spreading and sharing the selection via an individual hyperlink with other via social network or any media.
-
-everybody may contribute to the plattfomr by committing content to the corresponding git repository on github. 
-an entity should have the following structure, but not all directories are mandatory.
-
-#### if you only have pics you only have to include the /_pics directory if you only have sound then put it in sound and onlny inlude /_sound directory
-
-/artist_name/entity_name/_audio  
-/artist_name/entity_name/_video  
-/artist_name/entity_name/_pics  
-/artist_name/entity_name/_sound  
-/artist_name/entity_name/_text  
-/entity_name/entity_name/_meta 400x400_thumbnail.jpg (mandatory)   
-/entity_name/entity_name/_meta metadata.md (mandatory) 
-/entity_name/readme.md (mandatory) 
-
-
-the directories can be empty. 
-its not necessary to commit audio+video+image+text. empty directories will just not be integrated into the plattform.		
+please be aware of the directory structiure fpr your commit. please use the directory [example_artistname](https://github.com/digital3mpire/SUPER-INFORMATION-HIGH-MARKET/tree/master/example_artistname) as a prototype. you will also find a readme.md file there with further instructions
+	

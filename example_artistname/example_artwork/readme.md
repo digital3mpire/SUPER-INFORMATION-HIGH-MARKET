@@ -7,7 +7,7 @@ The first directory level is your prename and name connected with an undescore w
 ### artwork
 You can put as much artworks as you want into your directory, but please take care for the metadata. Each artwork needs a thumbnail in _meta and a short description in form of a readme.md file in the root directory of the artwork. Just use this example structure and replace.
 
-### directorys in artworks
+### directories in artworks
 just use the directories you need. if you only need video put all your stuff into _video, if you only habe sound the use _sound. 
 you got it.. :-)
 
