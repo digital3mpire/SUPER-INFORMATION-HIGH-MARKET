@@ -3,7 +3,7 @@
 
 ## WFT?! What is this
 
-this repo is an open spurce pavillon for  [THE WRONG bienale 2017](http://www.thewrong.org)
+this repo is an open source pavillon for [THE WRONG bienale 2017](http://www.thewrong.org)
 the repo ist open to anybody who wants to join the project and share their artwork as part of this online festival of netarts.
 
 
