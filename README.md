@@ -9,14 +9,16 @@ the repo ist open to anybody who wants to join the project and share their artwo
 
 ## HOWTO COMMIT
 
-you may commit to the project in to ways. use the git-infrastructure to make a pull-request to modify this repo or send an email with your github account name to:
+you may commit to the project in two ways. use the git-infrastructure to make a pull-request to modify this repo or send an email with your github account name to:
 digital3mpire at floriankuhlmann dot com
 i will ad you to the access list
 
 
-## STRUCTURE
+## DIRECTORY STRUCTURE
 
-please be aware of the directory structiure fpr your commit. please use the directory [example_artistname](https://github.com/digital3mpire/SUPER-INFORMATION-HIGH-MARKET/tree/master/example_artistname) as a prototype. you will also find a readme.md file there with further instructions
+please be aware of the directory structure and some mandatory files (thumbnail and readme text in _meta) for your commit. THE STRUCTURE IS VERY IMPORTANT. 
+please use the directory [example_artistname](https://github.com/digital3mpire/SUPER-INFORMATION-HIGH-MARKET/tree/master/name_prename) as a prototype. 
+you will also find a readme.md file there with further instructions.
 	
 
 ## NARRATIVE
