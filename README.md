@@ -17,7 +17,7 @@ i will ad you to the access list
 ## DIRECTORY STRUCTURE
 
 please be aware of the directory structure and some mandatory files (thumbnail and readme text in _meta) for your commit. THE STRUCTURE IS VERY IMPORTANT. 
-please use the directory [example_artistname](https://github.com/digital3mpire/SUPER-INFORMATION-HIGH-MARKET/tree/master/name_prename) as a prototype. 
+please use the directory [name_prename](https://github.com/digital3mpire/SUPER-INFORMATION-HIGH-MARKET/tree/master/name_prename) as a prototype. 
 you will also find a readme.md file there with further instructions.
 	
 
