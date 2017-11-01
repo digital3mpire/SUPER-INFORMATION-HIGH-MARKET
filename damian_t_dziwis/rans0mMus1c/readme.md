@@ -11,7 +11,7 @@ See [metadata](_meta/metadata.md) file for detailed description of the process.
 Download the resulting visual music video in releases or watch it on youtube: https://www.youtube.com/watch?v=gJlYr8uclV0
 
 
-A linked crowdfunding campaign allows it, in case it raises enough money, to pay the demanded ransom in bitcoin in order
+A linked crowdfunding campaign allows it, in case it raises enough money, to pay the demanded  bitcoin ransom in order
 to free the original music piece from its blackmailer by decrypting the source audio-file back to its original state and to prevent all other files from being deleted!
 
 Help to raise money on gofundme: https://www.gofundme.com/rans0mmus1c 
