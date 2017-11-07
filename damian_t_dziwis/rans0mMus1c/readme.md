@@ -5,7 +5,8 @@ let people question the value of their digital data by encrypting it and let the
 
 In rans0mMus1c the encryption by this malicious software becomes a creative process by reinterpreting encrypted audio-files 
 of pop- and entertainment-music as audio- and videodata resulting in a new piece of visual music.
-This is done at first place with a encrypted audio-file of "Money Man" by A$AP Mob ft. A$AP Rocky and A$AP Nast.
+~This is done at first place with a encrypted audio-file of "Money Man" by A$AP Mob ft. A$AP Rocky and A$AP Nast.~
+This is done with a encrypted audio-file of TOMM¥ CA$H "Euroz Dollaz Yeniz" on the second try.
 See [metadata](_meta/metadata.md) file for detailed description of the process. 
 
 Download the resulting visual music video in releases or watch it on youtube: https://www.youtube.com/watch?v=gJlYr8uclV0
