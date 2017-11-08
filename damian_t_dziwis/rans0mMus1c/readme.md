@@ -9,8 +9,8 @@ of pop- and entertainment-music as audio- and videodata resulting in a new piece
 This is done with a encrypted audio-file of TOMM¥ CA$H "Euroz Dollaz Yeniz" on the second try.
 See [metadata](_meta/metadata.md) file for detailed description of the process. 
 
-Download the resulting visual music video in releases or watch it on youtube: https://www.youtube.com/watch?v=gJlYr8uclV0
-
+~Download the resulting visual music video in releases or watch it on youtube: https://www.youtube.com/watch?v=gJlYr8uclV0~
+Download the resulting visual music video in releases or watch it on youtube: https://youtu.be/Zud0dDD_CKs
 
 A linked crowdfunding campaign allows it, in case it raises enough money, to pay the demanded  bitcoin ransom in order
 to free the original music piece from its blackmailer by decrypting the source audio-file back to its original state and to prevent all other files from being deleted!
