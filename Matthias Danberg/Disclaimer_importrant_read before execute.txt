@@ -1,9 +1,0 @@
->an interactive inventory of items<
-
-Haftungsausschluss und allgemeine Informationen
-
-1.Die Benutzung des Programms erfolgt auf eigene Gefahr. Dies bezieht sich auf die Funktionalität, Virenfreiheit und die notwendigen weiteren über das Internet übertragenen Bestandteile des Programms. 
-Der Autor dieses Programms haftet nicht für Schäden an Soft- oder Hardware oder anderen Vermögensschäden, die durch das Benutzen des Programms entstehen, es sei denn diese beruhen auf einem grob fahrlässigen oder vorsätzlichen Handeln des Autors.
-Jegliche Verantwortung für die Folgen der Benutzung des Programms geht auf den Benutzer des Programmes zurück.
-
-2.Das Programm ist ein Prototyp und wurde lediglich auf wenigen Rechnern getestet. Das Programm ist nicht für mobile oder ältere Computerkonfigurationen optimiert worden.
